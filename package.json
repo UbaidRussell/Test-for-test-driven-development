@@ -1,0 +1,22 @@
+{
+  "name": "test-for-test-driven-development",
+  "version": "1.0.0",
+  "description": "This repository is a test for test driven development and has no intrinsic value other than to calculate the factorial of a number and provide an edge case",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UbaidRussell/Test-for-test-driven-development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UbaidRussell/Test-for-test-driven-development/issues"
+  },
+  "homepage": "https://github.com/UbaidRussell/Test-for-test-driven-development#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
